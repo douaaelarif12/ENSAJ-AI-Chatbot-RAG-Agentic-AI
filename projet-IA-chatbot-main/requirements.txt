@@ -1,0 +1,21 @@
+# Core dependencies
+streamlit==1.39.0
+python-dotenv==1.0.1
+
+# LangChain ecosystem
+langchain==0.3.7
+langchain-community==0.3.5
+langchain-ollama==0.2.0
+
+# Ollama
+ollama==0.4.1
+
+# Vector store
+chromadb==0.5.20
+
+# PDF processing
+PyPDF2==3.0.1
+pypdf==5.1.0
+
+# Additional utilities
+tiktoken==0.8.0
